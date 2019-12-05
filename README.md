@@ -92,13 +92,19 @@
 
 #### `Ctrl + shift + I`图片插入
 
+
+
+手动输入格式：![]()
+
+
+
 支持本地图片
 
-![layUI](E:\Typora\layUI组件.png)
+![layUI](https://raw.githubusercontent.com/1004032560/Typora/master/image/layUI组件.png) )
 
 支持网络图片
 
-![2233娘](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1568291515040&di=b742702dbb013d80f4cd12d051b295ff&imgtype=0&src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2F37e182c148faf5760a9d08006ac5119b71dbc2a2.jpg)
+![layUI](https://raw.githubusercontent.com/1004032560/Typora/master/image/layUI组件.png)
 
 
 
