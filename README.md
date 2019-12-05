@@ -94,13 +94,13 @@
 
 
 
-手动输入格式：![]()
+手动输入格式：`![图片名称](图片路径)`
 
 
 
 支持本地图片
 
-![layUI](https://raw.githubusercontent.com/1004032560/Typora/master/image/layUI组件.png) )
+![layUI](https://raw.githubusercontent.com/1004032560/Typora/master/image/layUI组件.png) 
 
 支持网络图片
 
