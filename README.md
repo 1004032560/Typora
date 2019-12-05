@@ -42,7 +42,7 @@
 
 
 
-#### `Ctrl + U`文本划线；<u></u>
+#### `Ctrl + U`文本划线；
 
 <u>我的Markdown</u>
 
@@ -118,6 +118,8 @@
 
 #### `~~~~ + Enter`整个代码块嵌入
 
+
+
 ```HTML
 <!DOCTYPE html>
 <html lang="en">
@@ -163,7 +165,13 @@
 
 
 
-#### `Mermaid`流程图
+#### `Mermaid`流程图（github中不能显示代码的图形画）
+
+
+
+在代码块中选择`Mermaid`则表示流程图
+
+
 
 ```mermaid
 graph TD;
@@ -178,7 +186,13 @@ planD-->planEnd;
 
 
 
-#### `Sequence`时序图
+#### `Sequence`时序图（github中不能显示代码的图形画）
+
+
+
+在代码块中选择`Sequence`则表示流程图
+
+
 
 ```sequence
 Alice->>John: Hello John, how are you?
@@ -193,5 +207,7 @@ Bob->>John: All right!
 
 
 #### `[toc]`生成目录
+
+使用这个就可以快速生成目录
 
 [TOC]
